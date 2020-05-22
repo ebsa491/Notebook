@@ -1,10 +1,15 @@
+#!/usr/bin/python3
+# Lesser General Public License (LGPL) v3.0 .
+# The project has been developed by Saman Ebrahimnezhad .
+# Created at Iran (IR) .
+# Python 3 .
+
 import sys
-from colorama import *
 
 class Notebook:
 
     def __init__(self):
-        pass
+        
 
 def main():
     app = Notebook()
